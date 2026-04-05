@@ -11,5 +11,8 @@ public class DemoApplication {
 	}
 // some changes in newLocalBranch
         
-  // some new changes agin happended
+// some new changes agin happended
+        
+// some new changes --> new_LOCAL
+
 }
